@@ -12,3 +12,8 @@
   id: planterspunch
   flavorType: Complex
   description: flavor-complex-planters-punch
+
+- type: flavor
+  id: breathalyzer-flavor
+  flavorType: Complex
+  description: flavor-complex-breathalyzer
