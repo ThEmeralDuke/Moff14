@@ -35,3 +35,13 @@
       amount: 1
   products:
     PlantersPunch: 16
+
+- type: reaction
+  id: BreathalyzerDrink
+  reactants:
+    Ethylredoxrazine:
+      amount: 1
+    Nothing:
+      amount: 1
+  products:
+    BreathalyzerDrink: 2
