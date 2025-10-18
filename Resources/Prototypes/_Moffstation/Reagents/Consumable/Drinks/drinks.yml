@@ -23,7 +23,6 @@
   id: BreathalyzerDrink
   name: reagent-name-breathalyzer-drink
   parent: BaseDrink
-  abstract: true
   desc: reagent-desc-breathalyzer
   physicalDesc: reagent-physical-desc-nothing
   flavor: breathalyzer-flavor
