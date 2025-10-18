@@ -39,6 +39,7 @@
       effects:
       - !type:SatiateThirst
         factor: 1
-      - !type:AdjustReagent
-        reagent: ethylredoxrazine
-        amount: 1
+      - !type:ModifyStatusEffect
+        effectProto: StatusEffectDrunk
+        time: 6.0
+        type: Remove
