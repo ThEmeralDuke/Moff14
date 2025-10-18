@@ -14,7 +14,7 @@ reagent-name-corpse-reviver-drink = corpse reviver no. 2
 reagent-desc-corpse-reviver = One will revive you from a hangover, several may not.
 
 reagent-name-prairie-cocktail-drink = prairie cocktail
-reagent-desc-prairie-cocktail = 
+reagent-desc-prairie-cocktail = Sworn to fix a hangover in just a shot, mixed with modern medicine it just might. If you can keep it down.
 
 reagent-name-mossy-special-drink = mossy special
 reagent-desc-mossy-special = Reviled by dwarves and supposedly loved by elves everywhere, this brew is one endorsed by Central Command.
