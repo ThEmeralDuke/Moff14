@@ -24,6 +24,7 @@
 - type: reagent
   id: BaseSoda
   parent: BaseDrink
+  abstract: true
   metabolisms:
     Drink:
       effects:
