@@ -45,3 +45,45 @@
       amount: 1
   products:
     BreathalyzerDrink: 2
+
+- type: reaction
+  id: CorpseReviver
+  reactants:
+    Gin:
+      amount: 2
+    JuiceLemon:
+      amount: 2
+    BlueCuracao:
+      amount: 2
+    Wine:
+      amount: 2
+    Absinthe:
+      amount: 1
+    Ethylredoxrazine:
+      amount: 1
+  products:
+    CorpseReviver: 10
+
+- type: reaction
+  id: PrairieCocktail
+  reactants:
+    Egg:
+      amount: 6
+    Blackpepper:
+      amount: 2
+    Hotsauce:
+      amount: 2
+    Ethylredoxrazine:
+      amount: 10
+  products:
+    PrairieCocktail: 20
+
+- type: reaction
+  id: MossySpecial
+  reactants:
+    ManlyDorf:
+      amount: 2
+    Ethylredoxrazine:
+      amount: 1
+  products:
+    MossySpecial: 3
