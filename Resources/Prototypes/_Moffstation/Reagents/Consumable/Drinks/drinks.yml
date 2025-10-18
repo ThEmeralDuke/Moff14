@@ -54,6 +54,7 @@
   desc: reagent-desc-corpse-reviver
   physicalDesc: reagent-physical-desc-ghostly
   flavor: flavor-complex-corpse-reviver-flavor
+  color: "#cddcd5"
   metamorphicSprite:
     sprite: /Textures/_Moffstation/Objects/Consumable/Drinks/corpsereviver.rsi
     state: icon_empty
@@ -77,6 +78,7 @@
   desc: reagent-desc-prairie-cocktail
   physicalDesc: reagent-physical-desc-unappetizing
   flavor: flavor-complex-prairie-cocktail-flavor
+  color: "#8a2c16"
   metamorphicSprite:
     sprite: /Textures/_Moffstation/Objects/Consumable/Drinks/prairiecocktail.rsi
     state: icon_empty
@@ -107,6 +109,7 @@
   desc: reagent-desc-mossy-special
   physicalDesc: reagent-physical-desc-leafy
   flavor: flavor-complex-mossy-special-flavor
+  color: "#664300"
   metamorphicSprite:
     sprite: /Textures/_Moffstation/Objects/Consumable/Drinks/mossyspecial.rsi
     state: icon_empty
