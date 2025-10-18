@@ -26,6 +26,7 @@
   desc: reagent-desc-breathalyzer
   physicalDesc: reagent-physical-desc-nothing
   flavor: flavor-complex-breathalyzer-flavor
+  color: "#ffffff"
   metamorphicSprite:
     sprite: /Textures/_Moffstation/Objects/Consumable/Drinks/breathalyzer.rsi
     state: icon_empty
