@@ -25,7 +25,7 @@
   parent: BaseDrink
   desc: reagent-desc-breathalyzer
   physicalDesc: reagent-physical-desc-nothing
-  flavor: breathalyzer-flavor
+  flavor: flavor-complex-breathalyzer-flavor
   color: "#d0d0d0"
   metamorphicSprite:
     sprite: /Textures/_Moffstation/Objects/Consumable/Drinks/breathalyzer.rsi
