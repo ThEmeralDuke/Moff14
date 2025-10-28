@@ -131,6 +131,7 @@ namespace Content.IntegrationTests.Tests
             "Relic",
             "dm01-entryway",
             "Exo",
+            "Cog",
             // Moffstation - Start - Our maps
             "Waterjug",
             "Tram2",
